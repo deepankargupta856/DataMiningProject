@@ -1,0 +1,4 @@
+,Clusters,Noise Points,Silhouette,Adj. Rand Index
+k-Means (k=3),3.0,0.0,0.2287,-0.0
+Hierarchical (Ward),3.0,0.0,0.2012,-0.0006
+DBSCAN,13.0,7310.0,-0.4253,-0.0557
